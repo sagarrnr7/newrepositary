@@ -1,0 +1,2 @@
+# newrepositary
+for class
